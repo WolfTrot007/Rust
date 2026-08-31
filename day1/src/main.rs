@@ -1,4 +1,5 @@
 // A game of High or Low
+// Day 1 - 2
 
 //use std::io::{self, Write};
 // This use is the same as:
