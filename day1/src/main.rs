@@ -18,6 +18,13 @@ fn main() {
     guess.pop(); //This is used as Stdin also grabs the enter key when used
                  // so the pop removes the last used character.
     
-    
+
+    println!("Hello World"); 
+    let xing : i32 = 21;
+    let name : &str = "Gil";
+
+   if name == "Gil" && xing == 21 {
+        println!("{name} is {xing} so he is able to go out drinking");
+    }
 
 }
